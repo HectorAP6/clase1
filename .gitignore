@@ -1,0 +1,9 @@
+node_modules
+package-lock.json
+.temp
+.second.html
+
+# Eleventy
+_dist
+_cache
+second.html
